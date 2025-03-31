@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Animizu Player](https://github.com/odinforcehafiz/Animizu-Player)
 
-- 👨‍💻 All of my projects are available at [ceyhunsazdir.com.tr](ceyhunsazdir.com.tr)
-
 - 📫 How to reach me **contact@ceyhunsazdir.com.tr**
 
 <h3 align="left">Connect with me:</h3>
