@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Animizu Player](https://github.com/odinforcehafiz/Animizu-Player)
 
-- 📫 How to reach me **odinforcehafiz@proton.me**
+- 📫 How to reach me **contact@ceyhunsazdir.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
